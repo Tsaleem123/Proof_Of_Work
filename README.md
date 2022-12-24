@@ -14,7 +14,7 @@ Some of this information will be used by the pow-create program to verify proof 
 
 POW CHECK
 
-FORMAT: python pow-create.py "HEADERFILE" "FILE NAME"
+FORMAT: python pow-check.py "HEADERFILE" "FILE NAME"
 
 Verifies if a proof of work is legitmate by examining the header file. Takes the header and extracts Filename, Intial Hash, Proof of work, Hash, Leading bits and Iterations.
 Checks the proof-of-work in the file powheader against the original file used the proof of work header.
