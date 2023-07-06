@@ -28,4 +28,4 @@ py -2.7 pow-create.py 2 Walrus.txt
 py -2.7 pow-check.py POW-Walrus.txt Walrus.txt
 
 OVERVIEW:
-https://www.youtube.com/watch?v=FlKlKm4gnqw
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FlKlKm4gnqw/0.jpg)](https://www.youtube.com/watch?v=FlKlKm4gnqw)
